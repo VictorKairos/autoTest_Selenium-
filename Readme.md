@@ -13,7 +13,8 @@ Realizar una automatización consistente en:
 1. Node version 16 required:    NVM install 16
                                 NVM use 16
 2. Execute: npm i
-3. Download (https://chromedriver.chromium.org/downloads) and install chromedriver with chrome same version.
+3. Execute: sudo apt install chromium-chromedriver
+4. Download (https://chromedriver.chromium.org/downloads) and install chromedriver with chrome same version.
     Keep in mind that the webdriver route, must be included in PATH
 
 
